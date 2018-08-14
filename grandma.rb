@@ -1,9 +1,11 @@
 # Write a speak_to_grandma method.
-
+def speak_to_grandma(x)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-
+  if x = "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  elsif 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
